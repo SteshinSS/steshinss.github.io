@@ -1,0 +1,87 @@
+baseURL   = "https://stesh.in"
+title     = "Simon Steshin"
+theme     = "hello-friend-ng"
+languageCode = "en-us"
+
+# Sitemap configuration
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[params]
+  defaultTheme = "dark"
+  enableThemeToggle = true
+  
+  description = "CV of Simon Steshin."
+  keywords = "Drug Discovery, Deep Learning, AI Safety, Bioinformatics, Machine Learning"
+  images = [""]
+
+  googleAnalyticsID = "G-M5F6QEVEET"
+  
+    # Author information
+  [params.author]
+    name = "Simon Steshin"
+    
+  [params.portrait]
+    path     = "me.jpg"
+    alt      = "Portrait"
+    #maxWidth = "50px"
+
+  [params.logo]
+    logoMark = ">"
+    logoText = "Simon Steshin"
+    logoHomeLink = "/"
+    logoCursorDisabled = true
+    
+  disableReadOtherPosts = true
+  enableSharingButtons = false
+  enableGlobalLanguageMenu = false
+  
+  # Custom CSS for better layout
+  customCSS = ["css/custom.css"]
+  
+  # Favicon configuration
+  [params.favicon]
+    mask = "#1a1a1a"
+    msapplication = "#1a1a1a"
+    
+  [params.footer]
+    trademark = 2025
+    rss = false
+    copyright = false
+    author = true
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-M5F6QEVEET'
+
+    
+
+# Only disable unnecessary taxonomies, keep RSS for SEO
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+
+[[params.social]]
+  name = "email"
+  url  = "mailto:simon.steshin@gmail.com"
+
+[[params.social]]
+  name = "github"
+  url  = "https://github.com/SteshinSS"
+
+[[params.social]]
+  name = "linkedin"
+  url  = "https://www.linkedin.com/in/simon-steshin"
+
+[[params.social]]
+  name = "twitter"
+  url  = "https://x.com/ZdarovaAll"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+    maxAge = "1440h"
+  [caches.assets]
+    dir = ':cacheDir/assets'
+    maxAge = "1440h"
