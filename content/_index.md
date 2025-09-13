@@ -13,7 +13,7 @@ I like doing useful stuff. Some things I've done:
 
 ### Drug Discovery
 
-- Led drug discovery programs. Developed [selective VEGFR-3 inhibitor](https://ascopubs.org/doi/abs/10.1200/JCO.2025.43.16_suppl.3104) (Papillary Thyroid Cancer).
+- Led drug discovery programs. Developed a selective VEGFR-3 inhibitor for Papillary Thyroid Cancer ([poster at ASCO 2025](https://ascopubs.org/doi/abs/10.1200/JCO.2025.43.16_suppl.3104)).
 - Developed the open-source ML drug discovery tool [LoHi-Splitter](https://github.com/SteshinSS/lohi_splitter) (now merged into [Splito](https://splito-docs.datamol.io/stable/)).
 
 ### Aging Research
@@ -26,6 +26,7 @@ I like doing useful stuff. Some things I've done:
 
 - Published a methodological [NeurIPS paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cb82f1f97ad0ca1d92df852a44a3bd73-Abstract-Datasets_and_Benchmarks.html).
 - Taught the [Introduction to Machine Learning](https://www.abi.am/training/introduction-to-machine-learning) course at the Armenian Bioinformatics Institute.
+- [Paper at JCIM 2025](https://pubs.acs.org/doi/10.1021/acs.jcim.5c00743) on AI applied to find new LRRK2 ligands for Parkinson's disease.
 - Reviewer for NeurIPS, Nature Communications.
 
 ### Competitions
