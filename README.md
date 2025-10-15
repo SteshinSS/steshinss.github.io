@@ -1,2 +1,3 @@
+`hugo` to build
 
-- [ ] Add Google Analytics (uncomment in theme config)
+`hugo server` to run
