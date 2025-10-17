@@ -78,6 +78,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   name = "twitter"
   url  = "https://x.com/ZdarovaAll"
 
+[[params.social]]
+  name = "manifold"
+  url  = "https://manifold.markets/SimonSteshin"
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
