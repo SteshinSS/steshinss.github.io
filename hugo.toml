@@ -47,7 +47,7 @@ languageCode = "en-us"
     msapplication = "#1a1a1a"
     
   [params.footer]
-    trademark = 2025
+    trademark = true
     rss = false
     copyright = false
     author = true
