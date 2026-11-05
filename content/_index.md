@@ -5,7 +5,11 @@ type: "page"
 description: "Some things Simon has done"
 ---
 
-I like doing useful stuff. Some things I've done:
+I like doing useful stuff. Right now I'm most interested in verified AI pauses that produce verified AI safety research. Some things I've done:
+
+### AI Safety
+
+- Made [1000 Years of AI Safety](https://1000yearsofaisafety.com/) - a model of how much AI safety research an AI pause could produce.
 
 ### SWE
 
